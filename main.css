@@ -1,0 +1,92 @@
+h1 {
+
+	color: red;
+	text-align: center;
+}
+
+
+.des_pic {
+
+	padding: -10px;
+	
+ text-align: center;
+ font-weight: bold;
+}
+
+.pandaImg {
+	display: block;
+	margin: 0 auto;
+}
+
+nav li {
+
+display: inline-block;
+width: 20px;
+margin-right: 60px;
+margin-left: 60px;
+margin-top:20px ;
+margin-bottom: 20px;
+padding-top: 0px;
+
+
+
+}
+
+h2{
+
+	text-align: center;
+	color: red;
+
+}
+
+.mission{
+	vertical-align: top;
+	
+}
+
+div{
+
+	display: inline-block;
+}
+.email{
+
+color: white;
+
+}
+
+footer{
+background-color: black;
+	text-align: center;
+	color: white;
+	padding: 20px;
+}
+a {
+
+	text-decoration: none; 
+	color: white;
+}
+a:hover {
+	color: red;
+
+}
+nav {
+	border: 1px solid black;
+	background-color: black;
+	margin-top: 5px;
+	margin-bottom: 25px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	}
+
+
+.servicesProvided{
+
+	text-align: left;
+}
+	section {
+		text-align: center;
+		display: inline-block;
+			width: 31%;
+			vertical-align: top;
+
+	}
